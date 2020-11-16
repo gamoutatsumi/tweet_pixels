@@ -1,4 +1,4 @@
-name: update_today
+name: tweet_pixel_today
 
 on:
   workflow_dispatch:
