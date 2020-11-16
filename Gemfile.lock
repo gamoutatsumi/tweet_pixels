@@ -19,6 +19,9 @@ GEM
     hashie (4.1.0)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
+    io-console (0.5.6)
+    irb (1.2.7)
+      reline (>= 0.1.5)
     minitest (5.14.2)
     multipart-post (2.1.1)
     pixela (2.1.0)
@@ -27,6 +30,8 @@ GEM
       faraday_middleware
       hashie
     rake (13.0.1)
+    reline (0.1.8)
+      io-console (~> 0.5)
     ruby2_keywords (0.0.2)
     thread_safe (0.3.6)
     tzinfo (1.2.8)
@@ -39,6 +44,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   dotenv
+  irb
   pixela
   rake
 
