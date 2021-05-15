@@ -25,14 +25,10 @@ GEM
     hashie (4.1.0)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
-<<<<<<< HEAD
     io-console (0.5.6)
     irb (1.2.7)
       reline (>= 0.1.5)
-    minitest (5.14.2)
-=======
     minitest (5.14.4)
->>>>>>> e308b5604c4386a3055ac549c65e03e6de569461
     multipart-post (2.1.1)
     pixela (2.2.0)
       faraday (>= 1.0.0)
